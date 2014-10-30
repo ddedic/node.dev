@@ -5,6 +5,8 @@ var nodemailer = require('nodemailer');
 var passport = require('passport');
 var User = require('../models/User');
 var secrets = require('../config/secrets');
+var countries  = require('country-data').countries;
+
 
 /**
  * GET /login
