@@ -54,14 +54,9 @@
     "twilio": "^1.7.0",
     "twit": "^1.1.18",
     "uglify-js": "^2.4.15",
-<<<<<<< HEAD
-    "validator": "^3.22.0",
-    "yui": "^3.18.0",
     "country-data": "0.0.14"
-=======
     "validator": "^3.22.1",
     "yui": "^3.18.1"
->>>>>>> 580a2e008526f9ce67447a63fa26e54dff4d0ba2
   },
   "devDependencies": {
     "blessed": "^0.0.37",
